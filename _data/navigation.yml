@@ -27,7 +27,7 @@ header:
 
   - titles:
       # @start locale config
-      es      : &ES       Quiénes Somos
+      es      : &ES       Acerca de
       en      : &EN       About
       en-GB   : *EN
       en-US   : *EN
