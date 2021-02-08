@@ -1,6 +1,7 @@
 header:
   - titles:
       # @start locale config
+      es      : &ES       Archivo
       en      : &EN       Archive
       en-GB   : *EN
       en-US   : *EN
@@ -26,6 +27,7 @@ header:
 
   - titles:
       # @start locale config
+      es      : &ES       Quiénes Somos
       en      : &EN       About
       en-GB   : *EN
       en-US   : *EN
