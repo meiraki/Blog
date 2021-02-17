@@ -41,6 +41,9 @@
       .instagram-button {
         @include clickable($text-color-1, $instagram-color);
       }
+      .youtube-button {
+        @include clickable($text-color-1, $youtube-color);
+      }
     }
   }
 }
