@@ -23,19 +23,16 @@ titles:
   fr-CH   : *FR
   fr-FR   : *FR
   fr-LU   : *FR
+  # @end locale config
   article_header:
   type: overlay
   theme: dark
   background_color: '#203028'
   background_image:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: /imagenes/QuienesSomos.jpeg  
-  # @end locale config
-  
+    src: /docs/assets/images/cover3.jpg
 key: page-about
 ---
-
-![Nosotros](https://raw.githubusercontent.com/A-C-C-Guadalupe-Ortiz-De-Landazuri/Blog/master/imagenes/QuienesSomos.jpeg)
 
 [¿Quién es Guadalupe Ortíz de Landázuri?](https://a-c-c-guadalupe-ortiz-de-landazuri.github.io/Blog/Guadalupe.html "¿Quién es Guadalupe Ortíz de Landázuri?")
 
