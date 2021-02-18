@@ -28,4 +28,4 @@ key: page-about
 ---
 
 
-Somos un grupo de jóvenes católicos laicos que estudian distintas áreas del conocimiento: matemáticas, física y filosofía.
+¿quién fue Guadaupe Ortíz de Landazuri?
