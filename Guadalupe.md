@@ -2,8 +2,8 @@
 layout: article
 titles:
   # @start locale config
-  es      : &ES       Mision
-  en      : &EN       About
+  es      : &ES       Guadalupe Ortiz de Landázuri
+  en      : &EN       Guadalupe Ortiz de Landázuri
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
@@ -17,7 +17,7 @@ titles:
   zh-HK   : *ZH_HANT
   ko      : &KO       소개
   ko-KR   : *KO
-  fr      : &FR       À propos
+  fr      : &FR       Guadalupe Ortiz de Landázuri
   fr-BE   : *FR
   fr-CA   : *FR
   fr-CH   : *FR
@@ -28,4 +28,4 @@ key: page-about
 ---
 
 
-¿quién fue Guadaupe Ortíz de Landazuri?
+Gudalupe Ortiz de Landázuri Fernández de Heredia es Beata de la Iglesia Católica, un ejemplo de vida cristiana...
