@@ -26,7 +26,6 @@ titles:
   # @end locale config
 key: page-about
 ---
-![Nosotros](https://raw.githubusercontent.com/A-C-C-Guadalupe-Ortiz-De-Landazuri/Blog/master/about.md)
 
 ![Nosotros](https://raw.githubusercontent.com/A-C-C-Guadalupe-Ortiz-De-Landazuri/Blog/master/imagenes/QuienesSomos.jpeg)
 
