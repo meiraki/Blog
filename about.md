@@ -23,14 +23,15 @@ titles:
   fr-CH   : *FR
   fr-FR   : *FR
   fr-LU   : *FR
-  # @end locale config
   article_header:
   type: overlay
   theme: dark
   background_color: '#203028'
   background_image:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: /imagenes/QuienesSomos.jpeg
+    src: /imagenes/QuienesSomos.jpeg  
+  # @end locale config
+  
 key: page-about
 ---
 
@@ -38,10 +39,4 @@ key: page-about
 
 [¿Quién es Guadalupe Ortíz de Landázuri?](https://a-c-c-guadalupe-ortiz-de-landazuri.github.io/Blog/Guadalupe.html "¿Quién es Guadalupe Ortíz de Landázuri?")
 
-Somos un grupo de jóvenes católicos laicos que estudian distintas áreas del conocimiento: matemáticas, física y filosofía.
-
-Que, comprometidos con la fe, decidimos lo que vivimos y hacemos desde nuestras áreas.
-
-Buscamos hacer divulgación de ciencia y fe entre católicos.
-
-También, queremos hablar sobre el diálogo entre ciencia y fe para que los que, son creyentes y los que no, sepan de esto.
+[Acerca de Nosotros](https://a-c-c-guadalupe-ortiz-de-landazuri.github.io/Blog/asociacion.html "¿Quienes somos?")
