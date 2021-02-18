@@ -2,7 +2,7 @@
 layout: article
 titles:
   # @start locale config
-  es      : &ES       Acerca de Nosotros
+  es      : &ES       ¿Quiénes somos?
   en      : &EN       About
   en-GB   : *EN
   en-US   : *EN
