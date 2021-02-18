@@ -29,7 +29,7 @@ key: page-about
 
 ![Nosotros](https://raw.githubusercontent.com/A-C-C-Guadalupe-Ortiz-De-Landazuri/Blog/master/imagenes/QuienesSomos.jpeg)
 
-[Guadalupe](https://a-c-c-guadalupe-ortiz-de-landazuri.github.io/Blog/Guadalupe.html "¿Quién es Guadalupe Ortíz de Landázuri?")
+[¿Quién es Guadalupe Ortíz de Landázuri?](https://a-c-c-guadalupe-ortiz-de-landazuri.github.io/Blog/Guadalupe.html "¿Quién es Guadalupe Ortíz de Landázuri?")
 
 Somos un grupo de jóvenes católicos laicos que estudian distintas áreas del conocimiento: matemáticas, física y filosofía.
 
