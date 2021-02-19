@@ -25,12 +25,14 @@ titles:
   fr-LU   : *FR
   # @end locale config
 key: page-about
-cover: /docs/assets/images/axure/page-article-header-overlay-background-fill.jpg
+cover: /docs/assets/images/axure/page-article-header-overlay-background-image.jpg
 article_header:
   type: overlay
   theme: dark
-  background_color: '#123'
-  background_image: false
+  background_color: '#203028'
+  background_image:
+    gradient: 'linear-gradient(135deg, rgba(34, 139, 87, .4), rgba(139, 34, 139, .4))'
+    src: /docs/assets/images/cover3.jpg
 ---
 
 A post has an article header overlay with a solid background color (#123).
