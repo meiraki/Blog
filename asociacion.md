@@ -2,7 +2,7 @@
 layout: article
 titles:
   # @start locale config
-  es      : &ES       ¿Quienes somos?
+  es      : &ES       ¿Quiénes somos?
   en      : &EN       About us
   en-GB   : *EN
   en-US   : *EN
@@ -25,6 +25,13 @@ titles:
   fr-LU   : *FR
   # @end locale config
 key: page-about
+cover: /docs/assets/images/axure/page-article-header-overlay-background-image.jpg
+article_header:
+  type: overlay
+  theme: ocean
+  background_color: '#203028'
+  background_image:
+    src: /imagenes/paginaN.jpg
 ---
 
 Somos un grupo de jóvenes católicos laicos que estudian distintas áreas del conocimiento: matemáticas, física y filosofía.
