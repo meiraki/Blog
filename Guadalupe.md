@@ -24,6 +24,9 @@ titles:
   fr-FR   : *FR
   fr-LU   : *FR
   # @end locale config
+mode: immersive
+header: 
+  theme: dark
 key: page-about
 cover: /docs/assets/images/axure/page-article-header-overlay-background-image.jpg
 article_header:
