@@ -22,7 +22,7 @@ url     : # the base hostname & protocol for your site e.g. https://www.someone.
 baseurl : # does not include hostname
 title   : ACC Guadalupe Ortíz de Landázuri
 description: > # this means to ignore newlines until "Language & timezone"
-  Descripción del sitio
+  Página Web oficial de la Asociación de Científicos Católicos Guadalupe Ortiz de Landázuri.
 
 
 ## => Language and Timezone
