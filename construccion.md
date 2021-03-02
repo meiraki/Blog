@@ -17,4 +17,4 @@ Hijo de  Carlo Francesco Ceva (1610-1690) y Paola Columbo, fue un hombre de nego
 ##Trabajo académico
 Teorema de Menelao y Teorema de Ceva
 
-<iframe src="https://www.geogebra.org/classic/u5z6wxxe?embed" width="800" height="600" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
+<iframe src="https://www.geogebra.org/classic/rvvqmz2m?embed" width="400" height="300" allowfullscreen style="border: 1px solid #e4e4e4;border-radius: 4px;" frameborder="0"></iframe>
