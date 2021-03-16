@@ -210,7 +210,7 @@ defaults:
     values:
       layout: article
       sharing: false
-      license: false
+      license: true
       aside:
         toc: true
       show_edit_on_github: false
